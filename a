@@ -1,0 +1,23 @@
+[33mcommit b5df9e918f3e891c2da82fbce8770fcab5ec739d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Muhammad Talha <talhamushtaq73@gmail.com>
+Date:   Thu Jun 22 16:41:20 2023 +0500
+
+    Completed Biryani Recepie and Bug Fixes
+    
+    Fixed a Bug where the links and back button was not working
+
+[33mcommit 0cae2052767e540ba068632ea1a8401c7aa28aa1[m
+Author: Muhammad Talha <talhamushtaq73@gmail.com>
+Date:   Thu Jun 22 16:25:28 2023 +0500
+
+    Created Basic Structure for Website of Recepies
+    
+    Added The Links to Recepie Biryani
+    Added The Links to Recepie Korma
+    Added The Links to Recepie Karahi
+
+[33mcommit fff1f18bb38a7c8cd72e4571c5bb02cf6cfc29ab[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Muhammad Talha <95576315+TheTalify@users.noreply.github.com>
+Date:   Wed Jun 21 00:15:03 2023 +0500
+
+    Initial commit
