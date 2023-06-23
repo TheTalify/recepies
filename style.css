@@ -1,0 +1,11 @@
+img{
+    display: inline-block;
+}
+
+.content{
+    display: inline-block;
+}
+.all{
+    display: inline-block;
+    width: 1000;
+}
